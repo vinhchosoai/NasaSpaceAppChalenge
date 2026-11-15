@@ -29,9 +29,6 @@ npm test
 npm run build
 ```
 
-## Disclaimer
-
-AstroVitals is an educational self-assessment and decision-support prototype created for the NASA Space Apps Challenge. Clinical vitals thresholds (AHA, ADA, WHO) and NASA HRP / CSA research data are presented for simulation and training purposes and do not replace diagnosis or medical clearance by a qualified flight surgeon.
 
 ## Sources
 
