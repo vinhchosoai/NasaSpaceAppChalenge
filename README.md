@@ -1,7 +1,5 @@
 # AstroVitals — Astronaut Self-Health Assessment Tool
 
-An offline-capable, interactive visual health-assessment and countermeasure decision-support tool built for the NASA Space Apps Challenge ([details.md](./details.md)).
-
 ## Features
 
 - **Multi-Crew Profiles & Crew Overview**: Switch between crew profiles, track individual pre-flight baselines, view a Crew × Indicator readiness heatmap, and toggle **Crew Medical Officer Mode** (inspired by NASA's *Tempus Pro* protocol).
